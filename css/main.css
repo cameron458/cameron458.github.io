@@ -1848,7 +1848,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b4de49;
+  background: #187fde;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2631,20 +2631,6 @@ embed {
   color: #fc6423;
   border-bottom: none;
   border-bottom: 1px solid #fc6423;
-}
-.headband {
-  height: 3px;
-  background: #49b1f5;
-}
-.site-meta {
-  padding: 20px 0;
-  color: #fff;
-  background: #49b1f5;
-}
-.site-subtitle {
-  margin-top: 10px;
-  font-size: 13px;
-  color: #fff;
 }
 .posts-expand .post-title-link::before {
   content: "";
