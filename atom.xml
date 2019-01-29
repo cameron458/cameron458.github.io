@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/cameron458/cameron458.github.io.git/"/>
-  <updated>2018-12-02T08:57:11.595Z</updated>
+  <updated>2019-01-29T02:52:40.264Z</updated>
   <id>https://github.com/cameron458/cameron458.github.io.git/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>振动是什么</title>
+    <link href="https://github.com/cameron458/cameron458.github.io.git/2019/01/28/%E6%8C%AF%E5%8A%A8%E6%98%AF%E4%BB%80%E4%B9%88/"/>
+    <id>https://github.com/cameron458/cameron458.github.io.git/2019/01/28/振动是什么/</id>
+    <published>2019-01-28T06:50:22.000Z</published>
+    <updated>2019-01-29T02:52:40.264Z</updated>
+    
+    <content type="html"><![CDATA[<p>拉伸一根弹簧，敲击一块钢板，它便会震动起来。<br><img src="/img/img1.jpg" alt=""></p><hr><p>研究其中一点随时间的位置变化，我们会得到它的理想运动曲线。</p><p><div style="width: 250px; margin: 100"><img src="/img/img2.jpg" alt=""></div><br>和<strong>振动方程</strong><br>$$y=Asin(ωx+φ)$$<br>其中A为最大振幅，$ω$为角频率，周期$T=2π/ω$，<strong>频率</strong>$f=1/T$。这一固定频率称为<strong>固有频率</strong>。</p><hr><p>考虑实际的阻尼和阻力影响，其真实运动曲线为</p><p><div style="width: 250px; margin: 100"><img src="/img/img3.jpg" alt=""></div><br>  此时振动方程不是一般的弦函数，振幅逐渐减小，周期降低。这种振动幅度逐渐下降的特性称为<strong>阻尼</strong>。它是由于物体内部相互摩擦，空气阻力等原因造成的。我们知道，当物体受到的振动接近固有频率时，会产生共振，放大振动。<br>  振动运动的同时，由于空气，大地等介质的存在，振动产生的噪音会传导给生物，造成不舒适甚至严重的损害。</p><hr><p>如同其他学科一样，振动的研究也给人类社会带来科技的进步和生活质量的提高。<br>  如：苹果设备优秀的横向线性马达</p><p><div style="width: 400px; margin: 200"><img src="/img/img4.jpg" alt=""></div><br> 操控原子写出的中国</p><p><div style="width: 400px; margin: 200"><img src="/img/img5.jpg" alt=""></div><br>  武器撞针</p><p><div style="width: 400px; margin: 200"><img src="/img/img6.jpg" alt=""></div><br>  机床冲压</p><p><div style="width: 400px; margin: 200"><img src="/img/img7.jpg" alt=""></div><br>都需要对振动的精确控制。</p><hr><p> 不同的是，振动作为一种普遍存在的机械运动状态，它的本质是粒子在四大基本力场中的热运动状态，在宏观尺度则表现为物体机械式的重复性运动。所以无处不在，只是人类的感知范围有限。<br>  <div style="width: 400px; margin: 200"><img src="/img/img8.png" alt=""></div><br>  对于振动的研究，主要目的是为了利用或者抑制。<br>  谈论对振动的抑制，很自然的就会类比对噪声的控制。从源头，传播途径，对象。主要针对振源的振动控制系统分为被动控制，主动控制。利用设备或者基础自身的阻尼和刚度，屏蔽或者抵抗频率的振动。利用传感器提前检测到来的振动信息，通过系统处理，制动器反向补偿。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;拉伸一根弹簧，敲击一块钢板，它便会震动起来。&lt;br&gt;&lt;img src=&quot;/img/img1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;研究其中一点随时间的位置变化，我们会得到它的理想运动曲线。&lt;/p&gt;
+&lt;p&gt;&lt;div style=&quot;width: 250px; mar
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>科学的逼疯自己</title>
